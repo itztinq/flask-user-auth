@@ -2,9 +2,16 @@
 
 A simple Flask web application demonstrating basic user registration, login, and authentication with secure password hashing.
 
----
+### Features
 
-## Setup 
+- User registration with username, email, and password  
+- Secure password hashing using Werkzeug  
+- User login and session management  
+- Dashboard accessible only to logged-in users  
+- Flash messages for feedback  
+- Logout functionality
+
+### Setup 
 
 1. Clone the repository:  
    `git clone https://github.com/yourusername/flask-user-auth.git`
@@ -21,4 +28,4 @@ A simple Flask web application demonstrating basic user registration, login, and
 5. Run the application:  
    `python app.py`
 
-6. Open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000) and test registration/login.
+6. Open your browser at `http://127.0.0.1:5000` and test registration/login.
