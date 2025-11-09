@@ -14,7 +14,7 @@ A simple Flask web application demonstrating basic user registration, login, and
 ### Setup 
 
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/flask-user-auth.git`
+   `git clone https://github.com/itztinq/flask-user-auth.git`
 
 2. Open the folder in your preferred code editor (e.g., VS Code).
 
